@@ -1,6 +1,6 @@
 # yrec 
 
-A python aplication for recording youtube lives using Streamlink.
+A python aplication for recording youtube lives.
 
 ## Requirements
 
