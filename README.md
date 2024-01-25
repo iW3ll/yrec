@@ -11,7 +11,7 @@ A python aplication for recording youtube lives using Streamlink.
 
 ## Usage
 
-Interface
+Interface  
 • console
 
 ## How to use
