@@ -21,4 +21,8 @@ Interface
 python3 yrec.py
 
 ````
+``After finishing convert files from .ts to .mp4``
+````
+python3 merge.py --output 'output_folder'  
 
+````
