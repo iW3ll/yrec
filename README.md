@@ -28,3 +28,5 @@ python3 merge.py --output 'output_folder'
 ````
 If you want to send your files to any cloud you can use ``yrclone.py``
 
+Visit [rclone](https://rclone.org/) to learn how to create a configuration for yrclone.py before using it
+
