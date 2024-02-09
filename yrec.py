@@ -35,7 +35,7 @@ def start_recording(link, title):
     else:
         file_name = f"recording_{time.time()}"
 
-    command = ["streamlink", link, "best", "-o", f"./recorded/{file_name}_{date_now}.ts"]
+    command = ["streamlink", link, "best", "-o", f"./recorded/{file_name}_{date_now}.ts", "--retry-streams", "60", "--retry-open", "99999"]
     subprocess.run(command)
 
 def process_link(link):
