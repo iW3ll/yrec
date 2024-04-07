@@ -4,7 +4,11 @@ A python aplication for recording youtube lives.
 
 ## Requirements
 
-•Python 3  
+• python 3  
+• streamlink  
+• pytube  
+• ffmpeg  
+
 - install packages in requirements.txt using pip.
 
 •FFmpeg or FFmpy
