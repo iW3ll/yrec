@@ -7,11 +7,11 @@ A python aplication for recording youtube lives.
 • python 3  
 • streamlink  
 • pytube  
-• ffmpeg  
+• ffmpeg or ffmpy
 
-- install packages in requirements.txt using pip.
+Install packages in requirements.txt using pip.
 
-•FFmpeg or FFmpy
+``pip install -r requirements.txt``  
 
 ## Usage
 
