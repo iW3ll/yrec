@@ -7,7 +7,8 @@ A python aplication for recording youtube lives.
 • python 3  
 • streamlink  
 • pytube  
-• ffmpeg or ffmpy
+• ffmpeg or ffmpy  
+• rclone
 
 Install packages in requirements.txt using pip.
 
